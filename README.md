@@ -56,17 +56,17 @@ This repository contains the design and implementation of a custom 4-bit CPU, cr
 ## **Diagrams**
 
 ### **1. Full CPU Diagram**
-![Full CPU Diagram](diagrams/full_cpu_diagram.png)
+![Full CPU Diagram](diagrams/cpu.png)
 
 ---
 
 ### **2. Control Unit**
-![Control Unit Diagram](diagrams/control_unit.png)
+![Control Unit Diagram](cu.png)
 
 ---
 
 ### **3. 8x15 SRAM**
-![8x15 SRAM Diagram](diagrams/sram_8x15.png)
+![8x15 SRAM Diagram](ram.png)
 
 ---
 
